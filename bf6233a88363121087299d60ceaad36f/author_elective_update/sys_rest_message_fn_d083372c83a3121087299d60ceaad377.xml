@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn">
+    <sys_rest_message_fn action="DELETE">
+        <authentication_type>inherit_from_parent</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <content/>
+        <function_name>Default GET</function_name>
+        <http_method>get</http_method>
+        <lock>false</lock>
+        <oauth2_profile/>
+        <protocol_name/>
+        <qualified_name>AI Bot Kishore [ Default GET ]</qualified_name>
+        <rest_endpoint>https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyDvcdTCqprzk9GZjpCMEBgC-gR62nqYS-w</rest_endpoint>
+        <rest_message display_value="AI Bot Kishore">0433fbe483a3121087299d60ceaad3a5</rest_message>
+        <sys_class_name>sys_rest_message_fn</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-03 07:19:26</sys_created_on>
+        <sys_id>d083372c83a3121087299d60ceaad377</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Default GET</sys_name>
+        <sys_package display_value="AI Kishore BOT" source="x_1021112_ai_kisho">bf6233a88363121087299d60ceaad36f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AI Kishore BOT">bf6233a88363121087299d60ceaad36f</sys_scope>
+        <sys_update_name>sys_rest_message_fn_d083372c83a3121087299d60ceaad377</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-03 07:22:22</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mid_server/>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message_fn>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="AI Kishore BOT">bf6233a88363121087299d60ceaad36f</application>
+        <file_path/>
+        <instance_id>8139738cebb30618c040fddacad0cd72</instance_id>
+        <instance_name>dev283123</instance_name>
+        <name>sys_rest_message_fn_d083372c83a3121087299d60ceaad377</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn"><sys_rest_message_fn action="INSERT_OR_UPDATE"><authentication_type>inherit_from_parent</authentication_type><basic_auth_password/><basic_auth_profile/><basic_auth_user/><content/><function_name>Default GET</function_name><http_method>get</http_method><lock>false</lock><oauth2_profile/><protocol_name/><qualified_name>AI Bot Kishore [ Default GET ]</qualified_name><rest_endpoint>https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyDvcdTCqprzk9GZjpCMEBgC-gR62nqYS-w</rest_endpoint><rest_message display_value="AI Bot Kishore">0433fbe483a3121087299d60ceaad3a5</rest_message><sys_class_name>sys_rest_message_fn</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-02-03 07:19:26</sys_created_on><sys_id>d083372c83a3121087299d60ceaad377</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Default GET</sys_name><sys_package display_value="AI Kishore BOT" source="x_1021112_ai_kisho">bf6233a88363121087299d60ceaad36f</sys_package><sys_policy/><sys_scope display_value="AI Kishore BOT">bf6233a88363121087299d60ceaad36f</sys_scope><sys_update_name>sys_rest_message_fn_d083372c83a3121087299d60ceaad377</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-02-03 07:22:22</sys_updated_on><use_basic_auth>false</use_basic_auth><use_mid_server/><use_mutual_auth>false</use_mutual_auth></sys_rest_message_fn></record_update>]]></payload>
+        <payload_hash>209417012</payload_hash>
+        <record_name>Default GET</record_name>
+        <reverted_from/>
+        <source>c47233a88363121087299d60ceaad372</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-03 07:22:22</sys_created_on>
+        <sys_id>8724b72c83a3121087299d60ceaad3ce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>194cab059440000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-03 07:22:22</sys_updated_on>
+        <type>HTTP Method</type>
+        <update_guid>cb24b72cb0a31210cfa2cf7c1bdd23cd</update_guid>
+        <update_guid_history>cb24b72cb0a31210cfa2cf7c1bdd23cd:209417012,d883372c64a31210c9bf7b2a65d03979:-1735872055</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-03 08:38:17</sys_created_on>
+        <sys_db_object display_value="" name="sys_rest_message_fn">sys_rest_message_fn</sys_db_object>
+        <sys_id>320fd6d207ce47f4b03e44170d5baef1</sys_id>
+        <sys_metadata>d083372c83a3121087299d60ceaad377</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Default GET</sys_name>
+        <sys_package display_value="AI Kishore BOT" source="x_1021112_ai_kisho">bf6233a88363121087299d60ceaad36f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="AI Kishore BOT">bf6233a88363121087299d60ceaad36f</sys_scope>
+        <sys_scope_delete display_value="">088d02f3827c4322b11ca516dd5932d9</sys_scope_delete>
+        <sys_update_name>sys_rest_message_fn_d083372c83a3121087299d60ceaad377</sys_update_name>
+        <sys_update_version display_value="sys_rest_message_fn_d083372c83a3121087299d60ceaad377">8724b72c83a3121087299d60ceaad3ce</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-03 08:38:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

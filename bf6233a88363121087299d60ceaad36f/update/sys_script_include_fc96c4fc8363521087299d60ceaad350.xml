@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_1021112_ai_kisho.cicddemo</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <mobile_callable>false</mobile_callable>
+        <name>cicddemo</name>
+        <sandbox_callable>false</sandbox_callable>
+        <script><![CDATA[var cicddemo = Class.create();
+cicddemo.prototype = {
+    initialize: function() {
+    },
+
+	devopscicd: function(){
+         return "hello welcome to devops cicd";
+	},
+
+    type: 'cicddemo'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-03 08:43:37</sys_created_on>
+        <sys_id>fc96c4fc8363521087299d60ceaad350</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cicddemo</sys_name>
+        <sys_package display_value="AI Kishore BOT" source="x_1021112_ai_kisho">bf6233a88363121087299d60ceaad36f</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="AI Kishore BOT">bf6233a88363121087299d60ceaad36f</sys_scope>
+        <sys_update_name>sys_script_include_fc96c4fc8363521087299d60ceaad350</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-03 08:43:37</sys_updated_on>
+    </sys_script_include>
+    <sys_es_latest_script action="INSERT_OR_UPDATE">
+        <id>fc96c4fc8363521087299d60ceaad350</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-03 08:43:37</sys_created_on>
+        <sys_id>11c648748363521087299d60ceaad307</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-03 08:43:37</sys_updated_on>
+        <table>sys_script_include</table>
+        <use_es_latest>true</use_es_latest>
+    </sys_es_latest_script>
+</record_update>
